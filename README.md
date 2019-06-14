@@ -2,7 +2,7 @@
 
 + [Mathematical For Programmers](https://time.geekbang.org/column/intro/143)
 
-| # | —————————— | # |—————————— |#| —————————— |#| —————————— |
+| # | ————————— | # |————————— |#| ————————— |#| ————————— |
 | :------: | --------------- |  :------: | --------------- | :------: | --------------- | :------: | --------------- |
 |	1	|[BinarySystem](https://github.com/SherryShi0108/MyGeekCode/blob/master/MathematicalForProgrammers/01_BinarySystem.cs)|2| |3| |4| |
 |	5	|	|6| |7| |8| |	
