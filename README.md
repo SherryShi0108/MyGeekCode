@@ -27,7 +27,7 @@
 
 | # | ————————Code———————— | # | ————————Code———————— |
 | :------: |  :------- | :------: | :------- |
-|	1	|      | 2 | |
+|	1	|   None   | 2 | [Complexity](https://github.com/SherryShi0108/MyGeekCode/blob/master/Data%20Structures%20and%20Algorithms/CH02_Complexity.cs) |
 | 3 |      | 4 | |
 | 5 |      | 6 | |
 | 7 |      | 8 | |
